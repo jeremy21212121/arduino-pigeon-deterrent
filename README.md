@@ -8,7 +8,7 @@ Pigeons made a nest on my deck last year and they made quite a mess. This year I
 
 Press a button and scare the pigeons away. This is acheived with a high-frequency, high-voltage electrical arc of 1-2cm in length. The sound produced by this arcing causes the pigeons to leave the immediate area of the device very quickly. This allows me to scare the pigeons off my deck from the comfort of my apartment.
 
-NB. The pigeons are not being electricuted, let me make that very clear. The sound the arc makes scares the pigeons, as they are very sensitive to low-frequency sound. This is how they are able to fly off before an earthquake occurs.
+NB. The pigeons are not being electricuted, let me make that very clear. The sound the arc makes scares the pigeons, as they are very sensitive to low-frequency sound. This sensitivity to low-frequency sound is how they are able to fly off before an earthquake occurs.
 
 ## Required hardware
 
